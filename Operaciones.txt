@@ -1,0 +1,1032 @@
+1
+AA951XU
+Mitsubishi Carisma
+2020
+Marcelo Sanchez Sorondo
+261-4967890
+Cambio de Fluidos
+25000.00
+2020-02-13
+1
+AA067XO
+Mitsubishi Chariot
+2020
+Anibal Sanchez Reulet
+262-5867891
+Cambio de Fluidos
+13750.50
+2020-03-14
+1
+AA124VN
+Mitsubishi Colt
+2020
+Beatriz Sarlo
+263-6767892
+Cambio de Fluidos
+55000.00
+2020-01-15
+1
+AA105NG
+Mitsubishi Concept-RA
+2020
+Carlos Savransky
+264-4667893
+Cambio de Fluidos
+30000.15
+2020-03-16
+1
+AA909EG
+Mitsubishi Lancer
+2020
+Raul Scalabrini Ortiz
+265-5567894
+Cambio de Fluidos
+10550.00
+2020-02-17
+1
+AA574EH
+Mitsubishi Lancer Evolution
+2020
+Juan Carlos Scannone
+266-6467895
+Cambio de Fluidos
+6000.00
+2020-01-18
+1
+AA939DI
+Mitsubishi Montero
+2020
+Dardo Scavino
+267-4367896
+Cambio de Fluidos
+5000.00
+2020-03-19
+1
+AA566DM
+Mitsubishi Nativa
+2020
+Friedrich Schickendantz
+268-5367897
+Cambio de Fluidos
+7500.50
+2020-02-11
+1
+AA367QT
+Mitsubishi Outlander
+2020
+Samuel Schkolnik
+269-6267898
+Cambio de Fluidos
+7000.00
+2020-01-12
+1
+AA023PN
+Lamborghini Aventador
+2020
+Federico Schuster
+256-4167899
+Cambio de Fluidos
+11000.50
+2020-01-10
+1
+AA948II
+Lamborghini Countach
+2020
+Fernando Schwarz
+255-5067810
+Cambio de Fluidos
+2500.10
+2020-02-08
+1
+AA301QB
+Lamborghini Diablo
+2020
+Juan Jose Sebreli
+254-6577811
+Cambio de Fluidos
+35000.25
+2020-03-09
+1
+AA654HT
+Lamborghini Gallardo
+2020
+Delia Steinberg Guzman
+253-4521812
+Cambio de Fluidos
+27500.00
+2020-03-07
+1
+AA565KG
+Lamborghini Huracán
+2020
+Samuel Cabanchik
+252-5567313
+Cambio de Fluidos
+57500.35
+2020-02-06
+1
+AA112FX
+Lamborghini Miura
+2020
+Facundo Cabral
+261-4967890
+Cambio de Fluidos
+25000.00
+2020-02-13
+1
+AB648KN
+Ford F-100
+2019
+Ángel Cappelletti
+262-5867891
+Cambio de Correas
+13750.50
+2020-03-14
+1
+AB330QA
+Ford F-150
+2019
+Adolfo Carpio
+263-6767892
+Cambio de Correas
+55000.00
+2020-01-15
+1
+AB570EX
+Ford Fairlane
+2019
+Manuel Casas
+264-4667893
+Cambio de Correas
+30000.15
+2020-03-16
+1
+AB729CS
+Ford Fairmont
+2019
+Nicolas Casullo
+265-5567894
+Cambio de Correas
+10550.00
+2020-02-17
+1
+AB293PW
+Ford Falcon
+2019
+Alberto Caturelli
+266-6467895
+Cambio de Correas
+6000.00
+2020-01-18
+1
+AB151GG
+Ford Fiesta
+2019
+Horacio Cerutti Guldberg
+267-4367896
+Cambio de Correas
+5000.00
+2020-03-19
+1
+AB451OV
+Ford Five Hundred
+2019
+J. Alberto Coffa
+268-5367897
+Cambio de Correas
+7500.50
+2020-02-11
+1
+AB741AO
+Ford Focus
+2019
+Carlos Correas
+269-6267898
+Cambio de Correas
+7000.00
+2020-01-12
+1
+AB600OT
+Ford Del Rey
+2019
+Carlos Cossio
+256-4167899
+Cambio de Correas
+11000.50
+2020-01-10
+1
+AB581WU
+Ford F
+2019
+Marcelo Alejandro Cuenca
+255-5067810
+Cambio de Correas
+2500.10
+2020-02-08
+1
+AB434NF
+Ford Festiva
+2019
+Juan Samaja
+254-6577811
+Cambio de Correas
+35000.25
+2020-03-09
+1
+AB062NK
+Ford Figo
+2019
+Carlos Alberto Sacheri
+253-4521812
+Cambio de Correas
+27500.00
+2020-03-07
+1
+AB709KR
+Ford Flex
+2019
+Adolfo Bioy Casares
+252-5567313
+Cambio de Correas
+57500.35
+2020-02-06
+1
+AB992UR
+Ford Fusion
+2019
+Alejandra Pizarnik
+261-4967890
+Cambio de Correas
+25000.00
+2020-02-13
+1
+AB157PC
+Ford Pampa
+2019
+Alejo Carpentier
+262-5867891
+Cambio de Correas
+13750.50
+2020-03-14
+1
+AC971DE
+Chevrolet C-10
+2018
+Amado Nervo
+263-6767892
+Mecánica General
+55000.00
+2020-01-15
+1
+AC466MU
+Chevrolet Calibra
+2018
+Andrés Caicedo
+264-4667893
+Mecánica General
+30000.15
+2020-03-16
+1
+AC296EI
+Chevrolet Captiva
+2018
+Arturo Uslar Pietri
+265-5567894
+Mecánica General
+10550.00
+2020-02-17
+1
+AC368HP
+Chevrolet Avalanche
+2018
+Augusto Monterroso
+266-6467895
+Mecánica General
+6000.00
+2020-01-18
+1
+AC502OH
+Chevrolet Camaro
+2018
+Augusto Roa Bastos
+267-4367896
+Mecánica General
+5000.00
+2020-03-19
+1
+AC776PR
+Chevrolet Caprice
+2018
+Carlos Drummond de Andrade
+268-5367897
+Mecánica General
+7500.50
+2020-02-11
+1
+AC999NX
+Chevrolet Cavalier
+2018
+Carlos Fuentes
+269-6267898
+Mecánica General
+7000.00
+2020-01-12
+1
+AC073VM
+Chevrolet Chevelle
+2018
+Clarice Lispector
+256-4167899
+Mecánica General
+11000.50
+2020-01-10
+1
+AC189QV
+Chevrolet Chevy II
+2018
+Dulce María Loynaz
+255-5067810
+Mecánica General
+2500.10
+2020-02-08
+1
+AC156HO
+Chevrolet Cheyenne
+2018
+Eduardo Galeano
+254-6577811
+Mecánica General
+35000.25
+2020-03-09
+1
+AC591TM
+Chevrolet Corsa
+2018
+Elena Garro
+253-4521812
+Mecánica General
+27500.00
+2020-03-07
+1
+AC567MT
+Chevrolet Corvette C7
+2018
+Ernesto Sábato
+252-5567313
+Mecánica General
+57500.35
+2020-02-06
+1
+AC737NC
+Chevrolet Impala
+2018
+Euclides de Cunha
+261-4967890
+Mecánica General
+25000.00
+2020-02-13
+1
+AC251DG
+Chevrolet Malibu
+2018
+Felisberto Hernández
+262-5867891
+Mecánica General
+13750.50
+2020-03-14
+1
+AC090WU
+Chevrolet S-10
+2018
+Fernando Ampuero
+263-6767892
+Mecánica General
+55000.00
+2020-01-15
+1
+AD343SU
+Pagani Huayra
+2017
+Fernando del Paso
+264-4667893
+Mecánica de Motor
+30000.15
+2020-03-16
+1
+AD355EB
+Pagani Zonda
+2017
+Fernando Vallejo
+265-5567894
+Mecánica de Motor
+10550.00
+2020-02-17
+1
+AD507CA
+Pagani Zonda Revolution
+2017
+Francisco Coloane
+266-6467895
+Mecánica de Motor
+6000.00
+2020-01-18
+1
+AD200WC
+Citroën C1
+2017
+Gabriel García Márquez
+267-4367896
+Mecánica de Motor
+5000.00
+2020-03-19
+1
+AD506WS
+Citroën C2
+2017
+Gabriela Mistral
+268-5367897
+Mecánica de Motor
+7500.50
+2020-02-11
+1
+AD824HA
+Citroën C3
+2017
+Horacio Quiroga
+269-6267898
+Mecánica de Motor
+7000.00
+2020-01-12
+1
+AD934UQ
+Citroën C4
+2017
+Isabel Allende
+256-4167899
+Mecánica de Motor
+11000.50
+2020-01-10
+1
+AD225SV
+Citroën C4
+2017
+Jaime Sabines
+255-5067810
+Mecánica de Motor
+2500.10
+2020-02-08
+1
+AD635NH
+Citroën C5
+2017
+Jaime Sáenz
+254-6577811
+Mecánica de Motor
+35000.25
+2020-03-09
+1
+AD647UM
+Ferrari 250 GT Berlinetta
+2017
+J.M. Machado de Assis
+253-4521812
+Mecánica de Motor
+27500.00
+2020-03-07
+1
+AD803VL
+Ferrari 365 GT4 2+2
+2017
+Joao Guimaraes Rosa
+252-5567313
+Mecánica de Motor
+57500.35
+2020-02-06
+1
+AD593TP
+Ferrari 400
+2017
+Joaquín García Monge
+261-4967890
+Mecánica de Motor
+25000.00
+2020-02-13
+1
+AD200SC
+Ferrari 612 Scaglietti
+2017
+Jorge Amado
+262-5867891
+Mecánica de Motor
+13750.50
+2020-03-14
+1
+AD163JP
+Ferrari 812 Superfast
+2017
+Jorge Icaza
+263-6767892
+Mecánica de Motor
+55000.00
+2020-01-15
+1
+AD619IO
+McLaren P1
+2017
+Marcelo Sanchez Sorondo
+264-4667893
+Mecánica de Motor
+30000.15
+2020-03-16
+1
+AD934UQ
+Citroën C4
+2017
+Isabel Allende
+256-4167899
+Mecánica de Motor
+11000.50
+2020-01-10
+1
+AB600OT
+Ford Del Rey
+2019
+Carlos Cossio
+256-4167899
+Cambio de Correas
+11000.50
+2020-01-10
+1
+AA023PN
+Lamborghini Aventador
+2020
+Federico Schuster
+256-4167899
+Cambio de Fluidos
+11000.50
+2020-01-10
+3
+AA951XU
+3
+AA067XO
+3
+AA124VN
+3
+AA105NG
+3
+AA909EG
+3
+AA574EH
+3
+AA939DI
+3
+AA566DM
+3
+AA367QT
+3
+AA023PN
+3
+AA948II
+3
+AA301QB
+3
+AA654HT
+3
+AA565KG
+3
+AA112FX
+3
+AB648KN
+3
+AB330QA
+3
+AB570EX
+3
+AB729CS
+3
+AB293PW
+3
+AB151GG
+3
+AB451OV
+3
+AB741AO
+3
+AB600OT
+3
+AB581WU
+3
+AB434NF
+3
+AB062NK
+3
+AB709KR
+3
+AB992UR
+3
+AB157PC
+3
+AC971DE
+3
+AC466MU
+3
+AC296EI
+3
+AC368HP
+3
+AC502OH
+3
+AC776PR
+3
+AC999NX
+3
+AC073VM
+3
+AC189QV
+3
+AC156HO
+3
+AC591TM
+3
+AC567MT
+3
+AC737NC
+3
+AC251DG
+3
+AC090WU
+3
+AD343SU
+3
+AD355EB
+3
+AD507CA
+3
+AD200WC
+3
+AD506WS
+3
+AD824HA
+3
+AD934UQ
+3
+AD225SV
+3
+AD635NH
+3
+AD647UM
+3
+AD803VL
+3
+AD593TP
+3
+AD200SC
+3
+AD163JP
+3
+AD619IO
+2
+AD934UQ
+Citroën C4
+2017
+Isabel Allende
+256-4167899
+Mecánica de Motor
+11000.50
+2020-01-10
+2
+AB600OT
+Ford Del Rey
+2019
+Carlos Cossio
+256-4167899
+Cambio de Correas
+11000.50
+2020-01-10
+2
+AB581WU
+Ford F
+2019
+Marcelo Alejandro Cuenca
+255-5067810
+Cambio de Correas
+2500.10
+2020-02-08
+2
+AB434NF
+Ford Festiva
+2019
+Juan Samaja
+254-6577811
+Cambio de Correas
+35000.25
+2020-03-09
+2
+AB062NK
+Ford Figo
+2019
+Carlos Alberto Sacheri
+253-4521812
+Cambio de Correas
+27500.00
+2020-03-07
+2
+AB709KR
+Ford Flex
+2019
+Adolfo Bioy Casares
+252-5567313
+Cambio de Correas
+57500.35
+2020-02-06
+2
+AB992UR
+Ford Fusion
+2019
+Alejandra Pizarnik
+261-4967890
+Cambio de Correas
+25000.00
+2020-02-13
+2
+AB157PC
+Ford Pampa
+2019
+Alejo Carpentier
+262-5867891
+Cambio de Correas
+13750.50
+2020-03-14
+2
+AC971DE
+Chevrolet C-10
+2018
+Amado Nervo
+263-6767892
+Mecánica General
+55000.00
+2020-01-15
+2
+AC466MU
+Chevrolet Calibra
+2018
+Andrés Caicedo
+264-4667893
+Mecánica General
+30000.15
+2020-03-16
+2
+AC296EI
+Chevrolet Captiva
+2018
+Arturo Uslar Pietri
+265-5567894
+Mecánica General
+10550.00
+2020-02-17
+2
+AC368HP
+Chevrolet Avalanche
+2018
+Augusto Monterroso
+266-6467895
+Mecánica General
+6000.00
+2020-01-18
+2
+AC502OH
+Chevrolet Camaro
+2018
+Augusto Roa Bastos
+267-4367896
+Mecánica General
+5000.00
+2020-03-19
+2
+AC776PR
+Chevrolet Caprice
+2018
+Carlos Drummond de Andrade
+268-5367897
+Mecánica General
+7500.50
+2020-02-11
+2
+AC999NX
+Chevrolet Cavalier
+2018
+Carlos Fuentes
+269-6267898
+Mecánica General
+7000.00
+2020-01-12
+2
+AC073VM
+Chevrolet Chevelle
+2018
+Clarice Lispector
+256-4167899
+Mecánica General
+11000.50
+2020-01-10
+2
+AC189QV
+Chevrolet Chevy II
+2018
+Dulce María Loynaz
+255-5067810
+Mecánica General
+2500.10
+2020-02-08
+2
+AC156HO
+Chevrolet Cheyenne
+2018
+Eduardo Galeano
+254-6577811
+Mecánica General
+35000.25
+2020-03-09
+2
+AC591TM
+Chevrolet Corsa
+2018
+Elena Garro
+253-4521812
+Mecánica General
+27500.00
+2020-03-07
+2
+AA023PN
+Lamborghini Aventador
+2020
+Federico Schuster
+256-4167899
+Cambio de Fluidos
+11000.50
+2020-01-10
+3
+AA951XU
+3
+AA067XO
+3
+AA124VN
+3
+AA105NG
+3
+AA909EG
+3
+AA574EH
+3
+AA939DI
+3
+AA566DM
+3
+AA367QT
+3
+AA023PN
+3
+AA948II
+3
+AA301QB
+3
+AA654HT
+3
+AA565KG
+3
+AA112FX
+3
+AB648KN
+3
+AB330QA
+3
+AB570EX
+3
+AB729CS
+3
+AB293PW
+3
+AB151GG
+3
+AB451OV
+3
+AB741AO
+3
+AB600OT
+3
+AB581WU
+3
+AB434NF
+3
+AB062NK
+3
+AB709KR
+3
+AB992UR
+3
+AB157PC
+3
+AC971DE
+3
+AC466MU
+3
+AC296EI
+3
+AC368HP
+3
+AC502OH
+3
+AC776PR
+3
+AC999NX
+3
+AC073VM
+3
+AC189QV
+3
+AC156HO
+3
+AC591TM
+3
+AC567MT
+3
+AC737NC
+3
+AC251DG
+3
+AC090WU
+3
+AD343SU
+3
+AD355EB
+3
+AD507CA
+3
+AD200WC
+3
+AD506WS
+3
+AD824HA
+3
+AD934UQ
+3
+AD225SV
+3
+AD635NH
+3
+AD647UM
+3
+AD803VL
+3
+AD593TP
+3
+AD200SC
+3
+AD163JP
+3
+AD619IO
+2
+AD934UQ
+Citroën C4
+2017
+Isabel Allende
+256-4167899
+Mecánica de Motor
+11000.50
+2020-01-10
+2
+AB600OT
+Ford Del Rey
+2019
+Carlos Cossio
+256-4167899
+Cambio de Correas
+11000.50
+2020-01-10
+1
+AD934UQ
+Citroën C4
+2017
+Isabel Allende
+256-4167899
+Mecánica de Motor
+11000.50
+2020-01-10
+1
+AB600OT
+Ford Del Rey
+2019
+Carlos Cossio
+256-4167899
+Cambio de Correas
+11000.50
+2020-01-10
+1
+AA023PN
+Lamborghini Aventador
+2020
+Federico Schuster
+256-4167899
+Cambio de Fluidos
+11000.50
+2020-01-10
